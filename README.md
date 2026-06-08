@@ -123,7 +123,8 @@ GROUP BY REGION;
 - 💰 Profit by Product (Bar Chart)
 
 ### Dashboard Preview
-> *Screenshot of Power BI dashboard included in `/assets` folder*
+![Uploading image.png…]()
+
 
 ---
 
