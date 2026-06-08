@@ -123,7 +123,8 @@ GROUP BY REGION;
 - 💰 Profit by Product (Bar Chart)
 
 ### Dashboard Preview
-![Uploading image.png…]()
+<img width="1120" height="634" alt="image" src="https://github.com/user-attachments/assets/00ce5635-c370-43f4-81d0-968b6aa11ff5" />
+
 
 
 ---
